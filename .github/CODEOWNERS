@@ -6,3 +6,4 @@
 # Github configuration templates.
 .github/         @starwarsoutsourcing/SomeTeam
 apps/            @starwarsoutsourcing/SomeOtherTeam
+*.tf             @starwarsoutsourcing/SomeTeam
