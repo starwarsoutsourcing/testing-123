@@ -4,4 +4,5 @@
 ###########################################################
 
 # Github configuration templates.
-*         @starwarsoutsourcing/SomeTeam
+.github/         @starwarsoutsourcing/SomeTeam
+apps/            @starwarsoutsourcing/SomeOtherTeam
