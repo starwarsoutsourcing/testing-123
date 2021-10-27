@@ -1,8 +1,8 @@
-  ###########################################################
-  # In this example, @octocat owns any file in an apps directory
-  # anywhere in your repository.
-  ###########################################################
+###########################################################
+# In this example, @octocat owns any file in an apps directory
+# anywhere in your repository.
+###########################################################
 
-  # Github configuration templates.
-  apps/*         @starwarsoutsourcing/SomeTeam
-  apps/*         @starwarsoutsourcing/SomeOtherTeam
+# Github configuration templates.
+*         @starwarsoutsourcing/SomeTeam
+*         @starwarsoutsourcing/SomeOtherTeam
